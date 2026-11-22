@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Name": "English",
+    "Path": "en",
+    "IconIndex": 82
+  },
+  {
+    "Name": "Русский",
+    "Path": "ru",
+    "IconIndex": 200
+  },
+  {
+    "Name": "Қазақ",
+    "Path": "kk",
+    "IconIndex": 122
+  }
+]

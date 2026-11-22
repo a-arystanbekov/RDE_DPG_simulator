@@ -1,0 +1,67 @@
+{
+  "PGR": 50,
+  "NPR": 20,
+  "PGR_limit": 80,
+  "NPR_limit": 60,
+  "InsightMultiplier": 5,
+  "Salary":60,
+  "TeamBonus": 1,
+  "DayLength": 0.3,
+  "TeamInsightBurnReductionPercent": 5,
+  "Phases": [
+    {
+      "PhaseName": "RESEARCH",
+      "Fit": true,
+      "Dev": false,
+      "Market": false
+    },
+    {
+      "PhaseName": "PROTOTYPING",
+      "Fit": true,
+      "Dev": true,
+      "Market": false
+    },
+    {
+      "PhaseName": "TEAM_RECRUIT",
+      "Fit": true,
+      "Dev": true,
+      "Market": false
+    },
+    {
+      "PhaseName": "MVP",
+      "Fit": true,
+      "Dev": true,
+      "Market": true
+    },
+    {
+      "PhaseName": "MARKET_VAL",
+      "Fit": true,
+      "Dev": true,
+      "Market": true
+    },
+    {
+      "PhaseName": "DEVELOPMENT",
+      "Fit": true,
+      "Dev": true,
+      "Market": true
+    },
+    {
+      "PhaseName": "DPG_STATUS_APP",
+      "Fit": true,
+      "Dev": true,
+      "Market": true
+    },
+    {
+      "PhaseName": "RELEASE",
+      "Fit": true,
+      "Dev": true,
+      "Market": true
+    },
+    {
+      "PhaseName": "OPERATION",
+      "Fit": true,
+      "Dev": true,
+      "Market": true
+    }
+  ]
+}
